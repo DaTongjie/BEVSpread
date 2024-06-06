@@ -1,0 +1,8 @@
+BEVSpread.egg-info/
+build/
+outputs/
+data/
+checkpoints/
+*/__pycache__
+*/*/__pycache__
+*/*/*.so
